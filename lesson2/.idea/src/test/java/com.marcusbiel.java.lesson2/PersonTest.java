@@ -6,6 +6,6 @@ public class PersonTest{
 
     @Test 
     public void shouldReturnHelloWorld(){
-        
+        Person cory = new Person();
     }
 }
